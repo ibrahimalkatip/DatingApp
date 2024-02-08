@@ -1,4 +1,5 @@
 using API;
+using API.Entities;
 
 public interface ITokenService
 {
